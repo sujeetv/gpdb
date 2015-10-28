@@ -41,6 +41,11 @@ to the segments, and collects the results.
   * paramiko
   * setuptools
   * epydoc
+  
+   Ensure the ed text-editor is installed for gpinitsystem. For RHEL/Centos 
+   ```
+   sudo yum install ed
+   ```
 
 ## Code layout
 
